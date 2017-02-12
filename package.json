@@ -1,0 +1,26 @@
+{
+  "name": "axios-fileupload",
+  "version": "0.0.1",
+  "description": "File upload using axios",
+  "license": "MIT",
+  "repository": "HugeThoughts/axios-fileupload",
+  "author": {
+    "name": "Ashik Nesin",
+    "email": "mail@ashiknesin.com",
+    "url": "github.com/HugeThoughts/axios-fileupload"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "axios","file upload","form"
+  ],
+  "dependencies": {
+    "axios": "^0.15.3"
+  }
+}
