@@ -19,6 +19,10 @@ axiosFileupload(url,file);
 //=> 'Uploads a file and returns a promise'
 ```
 
+<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/CGkZDWqnkbWb5oHhriSU9WiV/AshikNesin/axios-fileupload'>
+  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/CGkZDWqnkbWb5oHhriSU9WiV/AshikNesin/axios-fileupload.svg' />
+</a>
+
 
 ## API
 
