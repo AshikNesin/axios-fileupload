@@ -2,6 +2,9 @@
 
 > File upload using axios (multipart/form-data)
 
+<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/CGkZDWqnkbWb5oHhriSU9WiV/AshikNesin/axios-fileupload'>
+  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/CGkZDWqnkbWb5oHhriSU9WiV/AshikNesin/axios-fileupload.svg' />
+</a>
 
 ## Install
 
@@ -18,10 +21,6 @@ const axiosFileupload = require('axios-fileupload');
 axiosFileupload(url,file);
 //=> 'Uploads a file and returns a promise'
 ```
-
-<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/CGkZDWqnkbWb5oHhriSU9WiV/AshikNesin/axios-fileupload'>
-  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/CGkZDWqnkbWb5oHhriSU9WiV/AshikNesin/axios-fileupload.svg' />
-</a>
 
 
 ## API
@@ -42,4 +41,4 @@ File that you want to upload
 
 ## License
 
-MIT © [Ashik Nesin](https://github.com/HugeThoughts/axios-fileupload)
+MIT © [Ashik Nesin](https://github.com/AshikNesin/axios-fileupload)
